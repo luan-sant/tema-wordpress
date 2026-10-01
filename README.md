@@ -2,7 +2,7 @@
 
 Tema WordPress customizado do zero (sem page builder) para site institucional de comunicação executiva — home one-page + blog, construído com foco em **performance (Core Web Vitals)**, **SEO técnico** e **indexação por buscadores e IAs**.
 
-🔗 **Site no ar:** [seudominio.com.br](https://brunalopesdebarros.com.br/) <!-- atualize se o domínio mudar -->
+🔗 **Site no ar:** [brunalopesdebarros.com.br](https://brunalopesdebarros.com.br/) <!-- atualize se o domínio mudar -->
 
 ![Screenshot da home](screenshot.png)
 
